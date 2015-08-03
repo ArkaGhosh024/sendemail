@@ -31,8 +31,8 @@ SERVER_EMAIL = 'arkaghosh024@gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'arkaghosh024@gmail.com'
-EMAIL_HOST_PASSWORD = 'Bibliophileno1'
+EMAIL_HOST_USER = 'ccbtsendfeedback@gmail.com'
+EMAIL_HOST_PASSWORD = 'automaticCBT'
 EMAIL_PORT = 587
 
 
