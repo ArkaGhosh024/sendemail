@@ -9,7 +9,7 @@ from smtplib import SMTPConnectError
 # Create your views here.
 
 def index(request):
-	send_mail('test mail', 'test message', settings.EMAIL_HOST_USER, ['arkaghosh024@gmail.com'], fail_silently=False)
+	send_mail('test mail', 'test message', settings.EMAIL_HOST_USER, ['ccbtsendfeedback@gmail.com'], fail_silently=False)
 	"""
 	try:
 		

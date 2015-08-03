@@ -26,8 +26,8 @@ SECRET_KEY = '8qo9p*cv2gv0ga-5e6$dl=yo4hw@u=flm$^6=+3bicnyxmg^i6'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-DEFAULT_FROM_EMAIL = 'arkaghosh024@gmail.com'
-SERVER_EMAIL = 'arkaghosh024@gmail.com'
+DEFAULT_FROM_EMAIL = 'ccbtsendfeedback@gmail.com'
+SERVER_EMAIL = 'ccbtsendfeedback@gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
